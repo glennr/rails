@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["DHH"]
   s.date = %q{2010-07-14}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{longer description of your gem}
   s.email = %q{glenn.roberts@siyelo.com}
   s.extra_rdoc_files = [
     "LICENSE",
@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "glennr-rails.gemspec",
      "lib/rails.rb",
      "rails.gemspec",
      "test/helper.rb",
@@ -32,7 +33,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{one-line summary of your gem}
   s.test_files = [
     "test/helper.rb",
      "test/test_rails.rb"
